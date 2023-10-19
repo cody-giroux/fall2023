@@ -131,7 +131,7 @@ For an A you must complete:
 
 
 You can also mix and match to get +/-. For example
-(all examples below assume 23 experience badges)
+(all examples below assume 22+ experience badges aand 13 lab checkouts)
 - A-: 18 practice + 4 explore
 - B+: 6 review + 12 practice +  4 explore
 - B-: 6 review + 12 practice 
@@ -149,7 +149,7 @@ These counts assume that the semester goes as planned and that there are 26 avai
 You cannot earn both practice and review badges for the same class session, but most practice badge requirements will include the review requirements plus some extra steps. 
 
 (integrative)=
-At the end of the semester, there will be special *integrative* badge opportunities that have multipliers attached to them. These badges will count for more than one. For example an integrative 2x review badge counts as two review badges.  These badges will be more complex than regular badges and therefore count more.  
+In the second half of the semester, there will be special *integrative* badge opportunities that have multipliers attached to them. These badges will count for more than one. For example an integrative 2x review badge counts as two review badges.  These badges will be more complex than regular badges and therefore count more.  
 
 ```{admonition} Can you do any combination of badges?
 :class: checkin, dropdown
@@ -159,6 +159,8 @@ No, you cannot earn practice and review for the same date.
 
 ### Experience Badges 
 
+(expinclass)=
+#### In class
 You earn an experience badge in class by:
 - preparing for class
 - following along with the activity (creating files, using git, etc)
@@ -166,13 +168,17 @@ You earn an experience badge in class by:
 - reflecting on what you learned
 - asking a question at the end of class
 
+(expmakeup)=
+#### Makeup
+
 You can make up an experience badge by:
 - preparing for class
 - reading the posted notes
 - completing the activity from the notes
-- producing an "experience report" OR attending office hours
+- completeing an "experience report" 
+- attaching evidence as indiated in notes OR attending office hours to show the evidence
 
-An experience report is evidence you have completed the activity and reflection questions. The exact form will vary per class, if you are unsure, reach out ASAP to get instructions. These are evaluated only for completeness/ good faith effort.  Revisions will generally not be required, but clarification and additional activity steps may be adcised if your evidence suggests you may have missed a step. 
+An experience report is evidence you have completed the activity and reflection questions. The exact form will vary per class, if you are unsure, reach out ASAP to get instructions. These are evaluated only for completeness/ good faith effort.  Revisions will generally not be required, but clarification and additional activity steps may be advised if your evidence suggests you may have missed a step. 
 
 ```{admonition} Do you earn badges for prepare for class? 
 :class: checkin, dropdown
@@ -279,10 +285,12 @@ Community Badge values:
 
 
 You can earn community badges by: 
-- fixing small issues on the course website (during  only)
+- fixing small issues on the course website (during penalty free zone only)
 - contributing extra terms or reviews to your team repo 
 - sharing articles and discussing them in the course discussions 
 - contributing annotated resources the course website 
+
+You will maintain a list of your contributions in your KWL repo in the `community_contributions.md` file. Every individual change to this file (representing one contribution) should be commited to a new branch and then submitted as a PR, with a review requested from @brownsarahm.
 
 ```{note}
 Some participation in your group repo and a small number of discussions will be required for experience, review, and practice badges. This means that not every single contribution or peer review to your team repo will earn a community badge. 
